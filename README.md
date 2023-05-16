@@ -5,7 +5,7 @@ You may use the software tool freely for academic, non-profit purposes only.
 The tool implements the algorithms described in the following paper:
 - "Structure Learning in Bayesian Networks of a Moderate Size by Efficient Sampling", Ru He, Jin Tian and Huaiqing Wu. Journal of Machine Learning Research (JMLR), 2016.
 
-Note that the orignl code website http://www.cs.iastate.edu/˜jtian/Software/BNLearner/BNLearner.htm, which has been provided in the paper, is unvailable at this moment, 
+Note that the orignl code website http://www.cs.iastate.edu/˜jtian/Software/BNLearner/BNLearner.htm, which has been provided in the paper, is unavailable at this moment, 
 because faculty personal websites have been migrated to be hosted by the university instead of the CS (computer science) department. Thus, this repository serves as a temporary website for the tool.
 
 
@@ -23,7 +23,7 @@ POSTER tool implements the algorithms proposed in the following paper:
 the Conference on Uncertainty in Artificial Intelligence (UAI), 2009.
 
 ## Investigated data cases:
-Note that the BNLearner tool also includes all the data cases investigated the paper. Please see these data cases under the sub-directory "cases/".
+Note that the BNLearner tool also includes all the data cases investigated in the paper. Please see these data cases under the sub-directory "cases/".
 
 
 
